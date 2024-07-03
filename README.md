@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5622AQFDFw2gHK18TQ/feedshare-shrink_1280/0/1716299864189?e=1719446400&v=beta&t=cDYNNyCuXHLbcsetHOj6yBv7SlWWjcZ6mpuv8XcX-10)
+
 <h1 align="center">Hi 👋, I'm Dao The Dat</h1>
 <h3 align="center">I am a software developer and desinger</h3>
 
