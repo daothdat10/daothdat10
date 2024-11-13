@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dao The Dat</h1>
-<h3 align="center">I am a software developer and desinger</h3>
+<h3 align="center">I am a software developer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daothdat10&label=Profile%20views&color=0e75b6&style=flat" alt="daothdat10" /> </p>
